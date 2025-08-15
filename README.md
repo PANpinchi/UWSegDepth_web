@@ -1,4 +1,4 @@
-# GLA-Net
+# UWSegDepth
 
 <h3>
   <a href="https://panpinchi.github.io/UWSegDepth_web/" target="_blank">[Website]</a>
